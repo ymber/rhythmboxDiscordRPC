@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=discordPresence
+IAge=2
+Name=Discord Rich Presence
+Description=Displays information about current song on a discord profile via local RPC server
+Authors=Matthew Taylor
+Copyright=Copyright © 2018 Matthew Taylor
+Website=https://github.com/ymber/pylibDiscordRPC
