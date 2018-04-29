@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "ef949be58c6694cce9980de0f72891d7f9472b445a2e8e65543cec0339dacede"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "discordrpc": {
+            "hashes": [
+                "sha256:6de433e16e15e429cb66277bf3cf4b582ae4e45b416197bf321d0cb4e762c22f",
+                "sha256:aa22fdd608743c130b977b86ef101d011bc59ef2161f809af4734483e742375f"
+            ],
+            "index": "pypi",
+            "version": "==0.0.0"
+        }
+    },
+    "develop": {}
+}
