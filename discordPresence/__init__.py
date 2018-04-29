@@ -26,5 +26,4 @@ class DiscordPresencePlugin(GObject.Object, Peas.Activatable):
 
     def do_deactivate(self):
         self.object.props.shell_player.disconnect(self.songChange)
-        self.object.props.shell_player.disconnect(self.propertyChange)
         self.discordPresence.close()
