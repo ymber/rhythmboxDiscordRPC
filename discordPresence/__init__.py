@@ -1,4 +1,4 @@
-from pylibDiscordRPC.rpc import DiscordRPC
+from .rpc import DiscordRPC
 import gi
 gi.require_version('RB', '3.0')
 gi.require_version('Peas', '1.0')
